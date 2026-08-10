@@ -1,0 +1,367 @@
+[
+  {
+    "id": "ffbd35987571",
+    "date": "2026-05-12",
+    "outlet": "Ars Technica",
+    "outlet_type": "trade",
+    "reach_weight": 0.75,
+    "brand": "Northwind",
+    "headline": "Northwind faces backlash over data handling; Northwind pledges carbon neutral operations by 2030",
+    "text": "Northwind faces backlash over data handling; Northwind pledges carbon neutral operations by 2030. The company said it takes a privacy-first approach. The inquiry could weigh on the stock near term. Some analysts called the targets vague.",
+    "topic_true": "Controversy",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [
+      "privacy-first"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "f4d6f59b6ee5",
+    "date": "2026-05-12",
+    "outlet": "Forbes",
+    "outlet_type": "business",
+    "reach_weight": 0.7,
+    "brand": "Northwind",
+    "headline": "Northwind expands ecosystem through new alliance; Northwind launches Aperture Cam, betting on privacy-first design",
+    "text": "Northwind expands ecosystem through new alliance; Northwind launches Aperture Cam, betting on privacy-first design. The deal is expected to broaden Northwind's reach. Both firms cited an AI-powered roadmap. Early reviewers praised the build quality and battery life.",
+    "topic_true": "Product Launch",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "AI-powered",
+      "privacy-first"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "bbfd22503947",
+    "date": "2026-05-13",
+    "outlet": "Local Gazette",
+    "outlet_type": "regional",
+    "reach_weight": 0.4,
+    "brand": "Northwind",
+    "headline": "Northwind cuts 5% of workforce in restructuring",
+    "text": "Northwind cuts 5% of workforce in restructuring. Affected teams spanned hardware and operations. Severance and support were offered, the company said.",
+    "topic_true": "Layoffs",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "bfa9c186d408",
+    "date": "2026-05-14",
+    "outlet": "Local Gazette",
+    "outlet_type": "regional",
+    "reach_weight": 0.4,
+    "brand": "Northwind",
+    "headline": "Regulators open inquiry into Northwind practices; Northwind cuts 12% of workforce in restructuring",
+    "text": "Regulators open inquiry into Northwind practices; Northwind cuts 12% of workforce in restructuring. The inquiry could weigh on the stock near term. Northwind declined to comment on pending litigation. Affected teams spanned hardware and operations.",
+    "topic_true": "Controversy",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "1cc4a0fc4273",
+    "date": "2026-05-14",
+    "outlet": "Ars Technica",
+    "outlet_type": "trade",
+    "reach_weight": 0.75,
+    "brand": "Northwind",
+    "headline": "Northwind announces layoffs as it trims costs",
+    "text": "Northwind announces layoffs as it trims costs. Affected teams spanned hardware and operations. Leadership framed the move as a path to profitability.",
+    "topic_true": "Layoffs",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "9ff0ec85b4f0",
+    "date": "2026-05-15",
+    "outlet": "Local Gazette",
+    "outlet_type": "regional",
+    "reach_weight": 0.4,
+    "brand": "Northwind",
+    "headline": "Northwind reports steady Q3 earnings amid market pressure",
+    "text": "Northwind reports steady Q3 earnings amid market pressure. Analysts flagged thinning margins despite the top-line beat. Revenue rose on strong demand for the flagship line.",
+    "topic_true": "Earnings",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "025487f34b1d",
+    "date": "2026-05-16",
+    "outlet": "Bloomberg",
+    "outlet_type": "business",
+    "reach_weight": 0.9,
+    "brand": "Northwind",
+    "headline": "Northwind and Vireo announce integration deal",
+    "text": "Northwind and Vireo announce integration deal. The deal is expected to broaden Northwind's reach. Both firms cited an AI-powered roadmap.",
+    "topic_true": "Partnership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "AI-powered"
+    ],
+    "mentions_competitor": "Vireo"
+  },
+  {
+    "id": "747599477187",
+    "date": "2026-05-16",
+    "outlet": "Bloomberg",
+    "outlet_type": "business",
+    "reach_weight": 0.9,
+    "brand": "Northwind",
+    "headline": "Northwind names new chief product officer",
+    "text": "Northwind names new chief product officer. The CEO reiterated the carbon neutral by 2030 pledge. The appointment signals a renewed product focus.",
+    "topic_true": "Leadership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "5779620be722",
+    "date": "2026-05-17",
+    "outlet": "Reuters",
+    "outlet_type": "wire",
+    "reach_weight": 0.95,
+    "brand": "Northwind",
+    "headline": "Northwind names new chief product officer",
+    "text": "Northwind names new chief product officer. The departure raised questions about strategy continuity. The appointment signals a renewed product focus.",
+    "topic_true": "Leadership",
+    "sentiment_true": "neutral",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "d15cb333acba",
+    "date": "2026-05-17",
+    "outlet": "Bloomberg",
+    "outlet_type": "business",
+    "reach_weight": 0.9,
+    "brand": "Northwind",
+    "headline": "Northwind names new chief product officer",
+    "text": "Northwind names new chief product officer. The departure raised questions about strategy continuity. The CEO reiterated the carbon neutral by 2030 pledge.",
+    "topic_true": "Leadership",
+    "sentiment_true": "neutral",
+    "messages_pulled_true": [
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "085fbe78acf7",
+    "date": "2026-05-17",
+    "outlet": "Reuters",
+    "outlet_type": "wire",
+    "reach_weight": 0.95,
+    "brand": "Northwind",
+    "headline": "Northwind partners with Vireo on next-gen platform; Northwind beats revenue expectations in Q4",
+    "text": "Northwind partners with Vireo on next-gen platform; Northwind beats revenue expectations in Q4. Terms were not disclosed. Both firms cited an AI-powered roadmap. Analysts flagged thinning margins despite the top-line beat.",
+    "topic_true": "Partnership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "AI-powered"
+    ],
+    "mentions_competitor": "Vireo"
+  },
+  {
+    "id": "5b9aac2a5f2b",
+    "date": "2026-05-17",
+    "outlet": "Wall Street Journal",
+    "outlet_type": "business",
+    "reach_weight": 0.92,
+    "brand": "Northwind",
+    "headline": "Review: Northwind's Nimbus 2 is a strong upgrade; Northwind reports steady Q2 earnings amid market pressure",
+    "text": "Review: Northwind's Nimbus 2 is a strong upgrade; Northwind reports steady Q2 earnings amid market pressure. Battery and price remain sticking points. It is a solid but not flawless release. Revenue rose on strong demand for the flagship line.",
+    "topic_true": "Earnings",
+    "sentiment_true": "neutral",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "fa51839aedb0",
+    "date": "2026-05-18",
+    "outlet": "The Verge",
+    "outlet_type": "trade",
+    "reach_weight": 0.85,
+    "brand": "Northwind",
+    "headline": "Northwind names new chief product officer",
+    "text": "Northwind names new chief product officer. The CEO reiterated the carbon neutral by 2030 pledge. The departure raised questions about strategy continuity.",
+    "topic_true": "Leadership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "aea9a7e9c017",
+    "date": "2026-05-18",
+    "outlet": "Wall Street Journal",
+    "outlet_type": "business",
+    "reach_weight": 0.92,
+    "brand": "Northwind",
+    "headline": "Northwind sued over alleged patent infringement; First look: Northwind's Nimbus 2 pushes into new territory",
+    "text": "Northwind sued over alleged patent infringement; First look: Northwind's Nimbus 2 pushes into new territory. Northwind declined to comment on pending litigation. The inquiry could weigh on the stock near term. Early reviewers praised the build quality and battery life.",
+    "topic_true": "Product Launch",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "ff0352922ebe",
+    "date": "2026-05-19",
+    "outlet": "Forbes",
+    "outlet_type": "business",
+    "reach_weight": 0.7,
+    "brand": "Northwind",
+    "headline": "Northwind beats revenue expectations in Q2; Critics question Northwind's green claims",
+    "text": "Northwind beats revenue expectations in Q2; Critics question Northwind's green claims. Revenue rose on strong demand for the flagship line. Analysts flagged thinning margins despite the top-line beat. Some analysts called the targets vague.",
+    "topic_true": "Sustainability",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "7d8100ac412b",
+    "date": "2026-05-19",
+    "outlet": "Wired",
+    "outlet_type": "trade",
+    "reach_weight": 0.8,
+    "brand": "Northwind",
+    "headline": "Hands-on: Northwind Vertex Hub impresses but has quirks; Northwind pledges carbon neutral operations by 2030",
+    "text": "Hands-on: Northwind Vertex Hub impresses but has quirks; Northwind pledges carbon neutral operations by 2030. The AI-powered assistant was the standout feature. Battery and price remain sticking points. Environmental groups gave a cautious welcome.",
+    "topic_true": "Reviews",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "AI-powered"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "60112486c60f",
+    "date": "2026-05-19",
+    "outlet": "Wired",
+    "outlet_type": "trade",
+    "reach_weight": 0.8,
+    "brand": "Northwind",
+    "headline": "Regulators open inquiry into Northwind practices",
+    "text": "Regulators open inquiry into Northwind practices. The company said it takes a privacy-first approach. Northwind declined to comment on pending litigation.",
+    "topic_true": "Controversy",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [
+      "privacy-first"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "ecb99b2b5f20",
+    "date": "2026-05-20",
+    "outlet": "Wall Street Journal",
+    "outlet_type": "business",
+    "reach_weight": 0.92,
+    "brand": "Northwind",
+    "headline": "Critics question Northwind's green claims",
+    "text": "Critics question Northwind's green claims. Some analysts called the targets vague. The company restated its carbon neutral by 2030 goal.",
+    "topic_true": "Sustainability",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "5a6125b622a7",
+    "date": "2026-05-21",
+    "outlet": "Forbes",
+    "outlet_type": "business",
+    "reach_weight": 0.7,
+    "brand": "Northwind",
+    "headline": "Northwind unveils new Vertex Hub with AI-powered features; Northwind faces backlash over data handling",
+    "text": "Northwind unveils new Vertex Hub with AI-powered features; Northwind faces backlash over data handling. The company says the Vertex Hub is its most AI-powered product yet. Early reviewers praised the build quality and battery life. Northwind declined to comment on pending litigation.",
+    "topic_true": "Controversy",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [
+      "AI-powered"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "5cd8a43f420d",
+    "date": "2026-05-22",
+    "outlet": "Local Gazette",
+    "outlet_type": "regional",
+    "reach_weight": 0.4,
+    "brand": "Northwind",
+    "headline": "Northwind launches Vertex Hub, betting on privacy-first design; Longtime Northwind executive departs amid reshuffle",
+    "text": "Northwind launches Vertex Hub, betting on privacy-first design; Longtime Northwind executive departs amid reshuffle. The company says the Vertex Hub is its most AI-powered product yet. Northwind leaned on its privacy-first messaging during the reveal. The CEO reiterated the carbon neutral by 2030 pledge.",
+    "topic_true": "Product Launch",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "AI-powered",
+      "privacy-first",
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "4267c182b4e5",
+    "date": "2026-05-22",
+    "outlet": "Reuters",
+    "outlet_type": "wire",
+    "reach_weight": 0.95,
+    "brand": "Northwind",
+    "headline": "Northwind reports steady Q4 earnings amid market pressure",
+    "text": "Northwind reports steady Q4 earnings amid market pressure. Analysts flagged thinning margins despite the top-line beat. Revenue rose on strong demand for the flagship line.",
+    "topic_true": "Earnings",
+    "sentiment_true": "neutral",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  },
+  {
+    "id": "06f33ad0e9e9",
+    "date": "2026-05-23",
+    "outlet": "Ars Technica",
+    "outlet_type": "trade",
+    "reach_weight": 0.75,
+    "brand": "Northwind",
+    "headline": "Northwind names new chief product officer",
+    "text": "Northwind names new chief product officer. The CEO reiterated the carbon neutral by 2030 pledge. The appointment signals a renewed product focus.",
+    "topic_true": "Leadership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [
+      "carbon neutral by 2030"
+    ],
+    "mentions_competitor": null
+  },
+  {
+    "id": "aa6616d9e2c4",
+    "date": "2026-05-23",
+    "outlet": "Bloomberg",
+    "outlet_type": "business",
+    "reach_weight": 0.9,
+    "brand": "Northwind",
+    "headline": "Northwind partners with Vireo on next-gen platform",
+    "text": "Northwind partners with Vireo on next-gen platform. Terms were not disclosed. The deal is expected to broaden Northwind's reach.",
+    "topic_true": "Partnership",
+    "sentiment_true": "positive",
+    "messages_pulled_true": [],
+    "mentions_competitor": "Vireo"
+  },
+  {
+    "id": "6f45c5870aea",
+    "date": "2026-05-24",
+    "outlet": "Personal Blog",
+    "outlet_type": "blog",
+    "reach_weight": 0.2,
+    "brand": "Northwind",
+    "headline": "Northwind announces layoffs as it trims costs",
+    "text": "Northwind announces layoffs as it trims costs. Affected teams spanned hardware and operations. Severance and support were offered, the company said.",
+    "topic_true": "Layoffs",
+    "sentiment_true": "negative",
+    "messages_pulled_true": [],
+    "mentions_competitor": null
+  }
+]

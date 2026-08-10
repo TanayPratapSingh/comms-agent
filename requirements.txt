@@ -1,0 +1,4 @@
+# Core agent runs on the Python standard library only.
+# Optional, to swap MockLLM for a hosted model:
+# openai>=1.0
+# anthropic>=0.30
