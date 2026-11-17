@@ -18,7 +18,7 @@ plan -> ingest -> classify -> [review_gate] --low-confidence--> human_review -> 
 
 The planner asks the LLM for a step plan. Ingest and classify call tools and record every invocation. `review_gate` is a conditional edge: if any mention came back below the confidence threshold it routes to `human_review`, otherwise it skips straight to aggregation. Human review corrects the flagged labels (oracle-backed in the demo, a UI queue in production) and logs each change. Aggregate computes the comms metrics, and report asks the LLM to phrase them as a short brief.
 
-On the sample data the agent flags 9 of 24 mentions as low-confidence and a reviewer corrects 7 of them before anything is reported, so the numbers the comms team sees are the human-verified ones.
+On the sample data the keyword classifier flags 9 of 24 mentions as low-confidence, and the oracle-backed reviewer (ground truth labels standing in for a human) makes 7 label fixes across 6 of those 9 mentions. Only flagged mentions are reviewed: 7 of the 15 unflagged mentions carry a wrong topic or sentiment label and go into the report unreviewed (`python scripts/run_agent.py runs/20261117T040914Z-demo.json`, recorded in `runs/20261117T040914Z-demo.json`).
 
 ## The orchestrator
 

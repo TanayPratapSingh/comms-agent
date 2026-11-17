@@ -1,0 +1,10 @@
+{
+  "command": "python scripts/run_agent.py runs/20261117T040914Z-demo.json",
+  "llm": "MockLLM",
+  "mentions": 24,
+  "flagged": 9,
+  "flagged_mentions_corrected": 6,
+  "label_fixes": 7,
+  "unflagged": 15,
+  "unflagged_mislabelled_reported_unreviewed": 7
+}
